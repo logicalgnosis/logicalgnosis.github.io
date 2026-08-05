@@ -144,7 +144,16 @@ Meta-Para-Ontology operates as an evolving framework whose greatest potential li
 
 Whether your future path leads toward scientific research, philosophy, psychology, cosmology, or contemplative practice, I hope Logical Gnosis will continue serving as a living instrument of discovery. Reality has always possessed a profound structural harmony. The journey ahead is the continuing discovery of that harmony throughout every domain of human knowledge. I wish you every success in that discovery.
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Logical Gnosis', '#9e8c81', 'R8X124IXBO');kofiwidget2.draw();</script> 
+<div style="text-align: center; margin: 1.5rem 0;">
+  <a href="https://ko-fi.com/logicalgnosis"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img
+      src="/assets/donat.png"
+      alt="Support Logical Gnosis"
+      style="max-width: 220px; height: auto; border: none; cursor: pointer;">
+  </a>
+</div>
 
 ___
 

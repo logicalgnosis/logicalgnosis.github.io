@@ -30,7 +30,16 @@ This website serves as the central hub for the foundational works of Meta-Para-O
 
 Meta-Para-Ontology is an independent philosophical research program under continuous development. The project welcomes academic dialogue, research collaboration, constructive feedback, and opportunities for cooperation. If you find this work valuable and would like to support its continued development, your voluntary contribution will help make future research, publications, and educational materials possible.
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Logical Gnosis', '#9e8c81', 'R8X124IXBO');kofiwidget2.draw();</script> 
+<div style="text-align: center; margin: 1.5rem 0;">
+  <a href="https://ko-fi.com/logicalgnosis"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img
+      src="/assets/donat.png"
+      alt="Support Logical Gnosis"
+      style="max-width: 220px; height: auto; border: none; cursor: pointer;">
+  </a>
+</div>
 
 **Contact**
 Email: metaparaontology@gmail.com
