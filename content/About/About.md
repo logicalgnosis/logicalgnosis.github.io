@@ -2,7 +2,7 @@
 ___
 
 
-Developed by Olexander Shapoval, [[/meta-para-ontology/terminology/meta-para-ontology|Meta-Para-Ontology]] (MPO) is an independent philosophical research program, first formulated in early 2026, dedicated to the structural integration of human knowledge. It is designed to provide a common structural language through which philosophy, science, psychology, and religious and contemplative traditions may be understood within a single coherent framework.
+Developed by Oleksandr Shapoval, [[/meta-para-ontology/terminology/meta-para-ontology|Meta-Para-Ontology]] (MPO) is an independent philosophical research program, first formulated in early 2026, dedicated to the structural integration of human knowledge. It is designed to provide a common structural language through which philosophy, science, psychology, and religious and contemplative traditions may be understood within a single coherent framework.
 
 MPO reconstructs the foundational topology of reality through three complementary components:
 
@@ -27,7 +27,11 @@ This website serves as the central hub for the foundational works of Meta-Para-O
 
 ---
 
-Meta-Para-Ontology is an independent philosophical research program under continuous development. The project welcomes academic dialogue, research collaboration, constructive feedback, and opportunities for cooperation. If you find value in this work and wish to support its continued development, you are also welcome to contribute through voluntary donations.
+Meta-Para-Ontology is an independent philosophical research program under continuous development. The project welcomes academic dialogue, research collaboration, constructive feedback, and opportunities for cooperation. If you find this work valuable and would like to support its continued development, your voluntary contribution will help make future research, publications, and educational materials possible.
 
+**Contact**
+Email: metaparaontology@gmail.com
+
+___
 
 ![logicalgnosis03.jpeg](/assets/logicalgnosis03.jpeg)
