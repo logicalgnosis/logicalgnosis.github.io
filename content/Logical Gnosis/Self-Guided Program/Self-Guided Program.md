@@ -2,8 +2,9 @@ ___
 
 ## Self-Guided Program Introduction
 
-This program reconstructs the architecture of thought itself.  
-Every step expands perception. Every question restructures thought. Every insight reveals another fragment of the hidden order until reality reveals itself in its fullness.
+### Welcome to the Self-Guided Program in Logical Gnosis
+
+This program is an unusual journey of philosophical exploration into metaphysical questions and the foundations of reality, designed to introduce you to Logical Gnosis and provide a practical introduction to the Meta-Para-Ontology system.
 
 This is a process of intellectual awakening. You will discover within yourself the observer hidden beneath habitual thinking—the perspective capable of seeing beyond inherited paradigms, conceptual habits, mental boundaries, and philosophical reductionisms. Fragmented questions become a unified understanding. Disconnected ideas become one coherent vision. The apparent incommensurability of philosophy, science, psychology, metaphysics, and contemplative traditions resolves into one coherent understanding of reality.
 
@@ -20,4 +21,6 @@ There is no need to hurry. This program prioritizes deep understanding over rapi
 **[This is the path to Logical Gnosis.](/logical-gnosis/self-guided-program/01-lesson)**
 
 ---
-### [[logical-gnosis/self-guided-program/01-lesson|NEXT: Lesson 01]]
+### [[logical-gnosis/self-guided-program/01-lesson|START: Lesson 01]]
+
+---
