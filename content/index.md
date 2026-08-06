@@ -23,7 +23,7 @@ This Meta-System emerged as a necessary discipline when the structural gap betwe
 This project unfolds through two complementary paths that express the same underlying vision: **[Logical Gnosis](/meta-para-ontology/terminology/logical-gnosis-term)** and **[Meta-Para-Ontology](/meta-para-ontology/terminology/meta-para-ontology-term)**. By providing a unified Meta-System that reveals the coherence of reality, these two perspectives offer an innovative approach to the organization of knowledge and the re-evaluation of the very foundations of established paradigms.
 
 <div style="text-align:center; margin: 2rem 0;">
-  <a href="/logical-gnosis/self-guided-program/">
+  <a href="/logical-gnosis/self-guided-program/" data-no-popover="true">
     <img src="/assets/banner01.jpeg" alt="Self-Guided Program" style="max-width:40%; height:auto;">
   </a>
 </div>
