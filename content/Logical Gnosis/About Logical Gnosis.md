@@ -1,9 +1,9 @@
 ___
 
 
-[[Meta-Para-Ontology]] began as a question that refused to close—and then another, and another, each one opening naturally from the answer before it, until what had started as inquiry resolved into an architecture.
+[Meta-Para-Ontology](/meta-para-ontology/terminology/meta-para-ontology-(term)) began as a question that refused to close—and then another, and another, each one opening naturally from the answer before it, until what had started as inquiry resolved into an architecture.
 
-[[Logical Gnosis]] preserves that inquiry as a living process of discovery. It represents the sequence of questions through which the architecture of Meta-Para-Ontology first became visible, allowing others to follow the same movement of inquiry through their own rigorous reasoning until its conclusions become matters of direct recognition rather than inherited knowledge.
+[Logical Gnosis](/meta-para-ontology/terminology/logical-gnosis-(term)) preserves that inquiry as a living process of discovery. It represents the sequence of questions through which the architecture of Meta-Para-Ontology first became visible, allowing others to follow the same movement of inquiry through their own rigorous reasoning until its conclusions become matters of direct recognition rather than inherited knowledge.
 
 The word gnosis has long referred to a form of knowing grounded in direct recognition. Across history, contemplative traditions cultivated this recognition through spiritual discipline, meditation, and direct realization. Logical Gnosis approaches the same horizon through sustained, rigorous questioning. It follows the unfolding of self-evident questions and answers until disciplined reasoning reaches clarity, where reality reveals itself as a single intelligible whole.
 
@@ -27,7 +27,7 @@ What emerges through this process is a transformation in how thought itself oper
 
 Meta-Para-Ontology is the completed theoretical architecture disclosed through this process. Logical Gnosis preserves both the path through which that architecture becomes visible and the mode of understanding through which its coherence becomes directly recognizable.
 
-[[/logical-gnosis/self-guided-program|The Self-Guided Program in Logical Gnosis]] begins here, inviting the reader to make incredible discoveries in understanding the architecture of reality itself.
+[The Self-Guided Program in Logical Gnosis](/logical-gnosis/self-guided-program) begins here, inviting the reader to make incredible discoveries in understanding the architecture of reality itself.
 
 
 ![logicalgnosis05.jpeg](/assets/logicalgnosis05.jpeg)

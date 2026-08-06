@@ -11,13 +11,13 @@ According to Register Ontology, every coherent description of reality necessaril
 
 They are:
 
-[[/meta-para-ontology/terminology/meta-potentiality|Meta-Potentiality]] — the register of pure openness preceding every determination.
+[Meta-Potentiality](/meta-para-ontology/terminology/meta-potentiality) — the register of pure openness preceding every determination.
 
-[[/meta-para-ontology/terminology/formative-causality|Formative Causality]] — the register in which structure, limitation, and formative organization become possible.
+[Formative Causality](/meta-para-ontology/terminology/formative-causality) — the register in which structure, limitation, and formative organization become possible.
 
-[[/meta-para-ontology/terminology/manifestation|Manifestation]] — the register of articulated, observable, and experiential reality.
+[Manifestation](/meta-para-ontology/terminology/manifestation) — the register of articulated, observable, and experiential reality.
 
-[[/meta-para-ontology/terminology/meta-actualization|Meta-Actualization]] — the register through which consciousness recognizes its irreducibility to Manifestation itself.
+[Meta-Actualization](/meta-para-ontology/terminology/meta-actualization) — the register through which consciousness recognizes its irreducibility to Manifestation itself.
 
 Together, these four registers reconstruct the complete contour of ontology—from undifferentiated openness to the point where ontology reaches its own legitimate boundary. Because they describe universal modes of articulation rather than particular entities or metaphysical doctrines, they remain invariant across every domain of inquiry. Scientific theories, philosophical systems, psychological models, and contemplative traditions may differ profoundly in their language, methods, and conclusions, yet they can all be structurally localized within the same ontological architecture.
 

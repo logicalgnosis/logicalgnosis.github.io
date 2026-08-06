@@ -17,7 +17,7 @@ This program is built for the intellect that is frustrated by the fragments and 
 
 There is no need to hurry. This program prioritizes deep understanding over rapid completion. Some readers may find that a single lesson a day provides more than enough material for reflection, while others may move through the entire program without interruption. Both approaches are equally valid. Allow your own understanding to determine the pace. Whenever possible, approach each lesson in an uninterrupted setting where you can give it your full attention. The aim is to make its insights your own.
 
-**[[logical-gnosis/self-guided-program/01-lesson|This is the path to Logical Gnosis.]]**
+**[This is the path to Logical Gnosis.](/logical-gnosis/self-guided-program/01-lesson)**
 
 ---
 ### [[logical-gnosis/self-guided-program/01-lesson|NEXT: Lesson 01]]

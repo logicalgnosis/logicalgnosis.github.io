@@ -1,17 +1,17 @@
 ---
 order: 3
 ---
-[[/meta-para-ontology/register-ontology/|Register Ontology]] reconstructs the fundamental contour through which reality becomes ontologically describable. Yet identifying this contour does not by itself explain the internal dynamics of Manifestation. A further question therefore naturally arises: what universal principles govern the dynamics of Manifestation? Functional Ontology addresses this question by reconstructing the fundamental operations through which every manifested configuration acquires continuity, differentiation, and developmental orientation.
+[Register Ontology](/meta-para-ontology/register-ontology) reconstructs the fundamental contour through which reality becomes ontologically describable. Yet identifying this contour does not by itself explain the internal dynamics of Manifestation. A further question therefore naturally arises: what universal principles govern the dynamics of Manifestation? Functional Ontology addresses this question by reconstructing the fundamental operations through which every manifested configuration acquires continuity, differentiation, and developmental orientation.
 
-As one of the two fundamental pillars of Meta-Para-Ontology, [[/meta-para-ontology/register-ontology/|Register Ontology]] explains what reality is, while Functional Ontology explains how reality unfolds. Functional Ontology reconstructs reality as a dynamic system of universal functions active throughout every level of Manifestation.
+As one of the two fundamental pillars of Meta-Para-Ontology, [Register Ontology](/meta-para-ontology/register-ontology) explains what reality is, while Functional Ontology explains how reality unfolds. Functional Ontology reconstructs reality as a dynamic system of universal functions active throughout every level of Manifestation.
 
 These functions are:
 
-[[/meta-para-ontology/terminology/recall-function|The Recall Function]] — continuity, memory, persistence; the causal function of time.
+[The Recall Function](/meta-para-ontology/terminology/recall-function) — continuity, memory, persistence; the causal function of time.
 
-[[/meta-para-ontology/terminology/differentiation-function|The Differentiation Function]] — distinction, structure; the causal function of space.
+[The Differentiation Function](/meta-para-ontology/terminology/differentiation-function) — distinction, structure; the causal function of space.
 
-[[/meta-para-ontology/terminology/actualization-function|The Actualization Function]] — emergence, novelty; the causal function of evolution.
+[The Actualization Function](/meta-para-ontology/terminology/actualization-function) — emergence, novelty; the causal function of evolution.
 
 These three functions constitute the operational dynamics underlying every configuration of Manifestation. Every phenomenon emerges through a unique proportional organization of Recall, Differentiation, and Actualization, allowing the same functional architecture to account for the continuity, structure, and evolution of reality across every level of organization.
 
