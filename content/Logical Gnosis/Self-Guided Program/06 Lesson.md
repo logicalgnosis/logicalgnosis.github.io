@@ -100,7 +100,7 @@ Perhaps the entire question has been formulated incorrectly.
 
 Perhaps the observer does not belong inside any individual Register at all.
 
-Notice something we have quietly overlooked.
+Notice something we have overlooked.
 
 Throughout every Register...
 

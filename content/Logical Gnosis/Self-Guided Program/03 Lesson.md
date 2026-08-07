@@ -92,7 +92,7 @@ consciousness...
 
 truth...
 
-begin quietly changing their meaning depending on who is speaking.
+begin changing their meaning depending on who is speaking.
 
 Nothing appears obviously false.
 
@@ -240,7 +240,7 @@ After all, every physical science begins there.
 
 But the moment matter becomes our coordinate...
 
-our map quietly begins favoring materialism.
+our map begins favoring materialism.
 
 Very well.
 
@@ -258,7 +258,7 @@ Perhaps process.
 
 Every attempt ends the same way.
 
-The coordinate quietly becomes another worldview.
+The coordinate becomes another worldview.
 
 Instead of organizing the map...
 
@@ -374,7 +374,7 @@ Perhaps it is about discovering the smallest structural framework capable of loc
 
 without becoming one of them.
 
-Notice how quietly the investigation has changed.
+Notice how the investigation has changed.
 
 At first we searched for the correct description of reality.
 

@@ -111,7 +111,7 @@ Immediately materialism becomes privileged.
 
 Could it begin with subject?
 
-Idealism quietly takes control.
+Idealism takes control.
 
 Perhaps information?
 
@@ -135,7 +135,7 @@ Now look again.
 
 Across very different traditions...
 
-something quietly begins repeating.
+something begins repeating.
 
 Modern cosmology speaks about the primordial singularity before measurable spacetime unfolds.
 

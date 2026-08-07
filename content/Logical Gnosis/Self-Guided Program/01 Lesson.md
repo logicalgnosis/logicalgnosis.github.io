@@ -185,7 +185,7 @@ Again, we do not reject it.
 
 We simply observe its scope.
 
-The same pattern quietly appears again.
+The same pattern appears again.
 
 Each approach illuminates part of reality.
 
@@ -193,7 +193,7 @@ Each develops extraordinary depth within its own territory.
 
 Each eventually begins speaking its own language.
 
-And once that happens, something else quietly disappears from view.
+And once that happens, something else disappears from view.
 
 Pause for a moment.
 
