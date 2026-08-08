@@ -21,13 +21,13 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf2e8"
+        light: "#fbf5ec"
         lightgray: "#e5e5e5"
         gray: "#b8b8b8"
         darkgray: "#3d3b38"
         dark: "#5c482a"
         secondary: "#916a30"
-        tertiary: "#d4bd90"
+        tertiary: "#edcf7e"
         highlight: transparent
         textHighlight: "#fff23688"
       darkMode:
