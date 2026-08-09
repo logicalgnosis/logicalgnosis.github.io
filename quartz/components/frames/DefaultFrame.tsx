@@ -38,7 +38,6 @@ export const DefaultFrame: PageFrame = {
 <div
   class="top-navigation"
   style="
-    border-bottom:1px solid var(--lightgray);
     padding-bottom:10px;
     margin-bottom:20px;
   "

@@ -7,7 +7,10 @@ const DarkModeComponent = Darkmode()
 
 const TopMenu: QuartzComponent = (props) => {
   return (
-     <div class="top-menu" style="font-size:17px; color:#65502C;">
+     <div
+       class="top-menu"
+       style="font-size:17px; color:#65502C; background:light-dark(#ede6d5, #2f2c26);"
+     >
 
 
       <nav>

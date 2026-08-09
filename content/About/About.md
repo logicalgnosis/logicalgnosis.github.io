@@ -7,7 +7,7 @@ MPO reconstructs the foundational topology of reality through three complementar
 
 - **[Register Ontology](/meta-para-ontology/terminology/register-ontology)** — identifies the irreducible modes through which reality becomes describable.
 - **[Functional Ontology](/meta-para-ontology/terminology/functional-ontology)** — reconstructs the operational dynamics through which Manifestation unfolds.
-- **[Polymetaphysical Cartography](/meta-para-ontology/terminology/polymetaphysical-cartography)** — provides the methodological framework for integrating localized paradigms into one coherent Meta-System.
+- **[Polymetaphysical Cartography](/meta-para-ontology/terminology/polymetaphysical-cartography-term)** — provides the methodological framework for integrating localized paradigms into one coherent Meta-System.
 
 [Logical Gnosis](/meta-para-ontology/terminology/logical-gnosis-term) represents the experiential dimension of this work, translating structural ontology into a direct path of intellectual realization. It embodies the Meta-Paradigm as experiential knowledge, while Meta-Para-Ontology serves as the unified research program providing the structural platform for its conceptual grounding.
 
