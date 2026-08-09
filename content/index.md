@@ -32,6 +32,12 @@ ___
 <p></p> • Logical Gnosis expands Meta-Para-Ontology beyond the boundaries of academic and disciplinary research, making it a practical methodology for exploring consciousness and applying its principles within individual human experience.
 </div>
 
+<div style="text-align:center; margin: 2rem 0;">
+  <a href="/logical-gnosis/self-guided-program/" data-no-popover="true">
+    <img src="/assets/banner01.jpeg" alt="Self-Guided Program" style="max-width:40%; height:auto;">
+  </a>
+</div>
+
 ___
 
 For you, this system could become a new philosophy, finally explaining the full diversity of existing ideas and the nature of reality. For you, it could become a new metaphysics, finally providing answers rather than generating ever more unresolvable questions. For you, it could become a new science, opening new domains of research in the comparative ontology of disciplines and systems of knowledge. For you, it might even become a new way of understanding religion—not by replacing any tradition, but by preserving profound respect for each while offering rational explanations for what once seemed inexplicable. And if you have reached the local ideological or disciplinary limits of understanding reality, this system offers a way to reach the very limits of its possible description and to see reality in all its fullness and harmonious coherence. Ultimately, by exploring the system in depth, you may arrive at the conclusion that it represents an entirely new discipline in human knowledge and experience—the **[[Meta-System]]**.
@@ -49,12 +55,6 @@ Science reveals one fragment. Philosophy another. Psychology a third. Contemplat
 This Meta-System emerged as a necessary discipline when the structural gap between the rational and the metaphysical became apparent—between materialism and idealism, science and religion, reason and contemplative experience. It transcends any philosophy centered on a single subject, idea, or paradigmatic perspective. It constructs a complete ontological cartography of reality itself. Within this architecture, inquiries concerning space, time, gravity, causality, evolution, consciousness, cognition, cosmology, religion, metaphysics, psychology, and philosophy cease to belong to isolated intellectual territories. They unfold as harmonious expressions of the very structure of reality, complementing one another without mutual exclusion. It provides a new way of understanding how every theory of reality belongs within reality itself. The result is an integrated Meta-Paradigm capable of encompassing every legitimate domain of human knowledge. It transcends the fragmented explanations typically produced by attempts to reconcile different disciplines, offering a unified space in which all of them coexist while revealing the underlying harmony of reality itself.
 
 This project unfolds through two complementary paths that express the same underlying vision: **[Logical Gnosis](/meta-para-ontology/terminology/logical-gnosis-term)** and **[Meta-Para-Ontology](/meta-para-ontology/terminology/meta-para-ontology-term)**. By providing a unified Meta-System that reveals the coherence of reality, these two perspectives offer an innovative approach to the organization of knowledge and the re-evaluation of the very foundations of established paradigms.
-
-<div style="text-align:center; margin: 2rem 0;">
-  <a href="/logical-gnosis/self-guided-program/" data-no-popover="true">
-    <img src="/assets/banner01.jpeg" alt="Self-Guided Program" style="max-width:40%; height:auto;">
-  </a>
-</div>
 
 **[Logical Gnosis](/meta-para-ontology/terminology/logical-gnosis-term)** is a method of direct comprehension through which the constraints of local paradigms are transcended and a unified vision of reality becomes intelligible. It represents the experiential and metaphysical dimension of this system, unfolding through direct existential questioning. It is simultaneously a method of inquiry, a mode of understanding, and the experiential realization of the Meta-Paradigm itself.
 
