@@ -4,30 +4,32 @@ title: Home
 
 ---
 ___
-# Welcome!
-<div style="color:#916a30; font-size:1.3rem;">
-<strong>What is Meta-Para-Ontology?</strong>
+<div style="color:light-dark(#916a30, #b28533); font-size:1.8rem;">
+<strong>Welcome!</strong>
 </div>
-<div style="color:#65502C;">
-<p></p> <strong>• It reconciles contradictions by constructing a coherent picture of reality in which the harmonious coexistence of ideas transcends ideological conflicts.</strong>
+
+## **What is Meta-Para-Ontology?**
+
+<div style="color:light-dark(#8a6228, #e8e8e8); font-size:1.1rem;">
+<p></p> • It reconciles contradictions by constructing a coherent picture of reality in which the harmonious coexistence of ideas transcends ideological conflicts.
 <p></p>
-<p></p> <strong>• It reveals a coherent vision of reality in which gravity, space, time, evolution, cosmology, ontology, psychology, intelligence, consciousness, contemplative experience, and the question of the Absolute can finally be integrated into a single non-contradictory worldview.</strong>
+<p></p> • It reveals a coherent vision of reality in which gravity, space, time, evolution, cosmology, ontology, psychology, intelligence, consciousness, contemplative experience, and the question of the Absolute can finally be integrated into a single non-contradictory worldview.
 <p></p>
-<p></p> <strong>• It offers a coherent vision of reality in which science, philosophy, psychology, and contemplative traditions become complementary perspectives within a single intelligible architecture.</strong>
+<p></p> • It offers a coherent vision of reality in which science, philosophy, psychology, and contemplative traditions become complementary perspectives within a single intelligible architecture.
 <p></p>
-<p></p> <strong>• It builds a structural bridge between Western scientific and philosophical thought and the metaphysical traditions of the East, advancing a synthesis that has long been sought. Such a synthesis, however, has lacked a clear conceptual apparatus for integrating these traditions within a unified system of reality without reducing one to the other.</strong>
+<p></p> • It builds a structural bridge between Western scientific and philosophical thought and the metaphysical traditions of the East, advancing a synthesis that has long been sought. Such a synthesis, however, has lacked a clear conceptual apparatus for integrating these traditions within a unified system of reality without reducing one to the other.
 <p></p>
-<p></p> <strong>• It reveals the structural relationships between philosophical systems, showing that many of their apparent contradictions arise from different perspectives on reality and can be located within a unified map of reality.</strong>
+<p></p> • It reveals the structural relationships between philosophical systems, showing that many of their apparent contradictions arise from different perspectives on reality and can be located within a unified map of reality.
 <p></p>
-<p></p> <strong>• It does not ask you to replace one worldview with another, but provides a framework for understanding how different worldviews relate to one another, allowing different perspectives to coexist while preserving their individual integrity.</strong>
+<p></p> • It does not ask you to replace one worldview with another, but provides a framework for understanding how different worldviews relate to one another, allowing different perspectives to coexist while preserving their individual integrity.
 <p></p>
-<p></p> <strong>• It seeks to build a bridge between rational inquiry and metaphysical understanding, making it possible to explore questions that have long remained divided between scientific skepticism and leaps of faith.</strong>
+<p></p> • It seeks to build a bridge between rational inquiry and metaphysical understanding, making it possible to explore questions that have long remained divided between scientific skepticism and leaps of faith.
 <p></p>
-<p></p> <strong>• It is not meant to be believed. It is meant to be understood, explored, and used as an instrument of rational inquiry into the structure of reality.</strong>
+<p></p> • It is not meant to be believed. It is meant to be understood, explored, and used as an instrument of rational inquiry into the structure of reality.
 <p></p>
-<p></p> <strong>• It offers practical methodologies for interdisciplinary analysis, discovering a common structural syntax beneath the different conceptual languages of science, philosophy, psychology, and contemplative traditions.</strong>
+<p></p> • It offers practical methodologies for interdisciplinary analysis, discovering a common structural syntax beneath the different conceptual languages of science, philosophy, psychology, and contemplative traditions.
 <p></p>
-<p></p> <strong>• Logical Gnosis expands Meta-Para-Ontology beyond the boundaries of academic and disciplinary research, making it a practical methodology for exploring consciousness and applying its principles within individual human experience.</strong>
+<p></p> • Logical Gnosis expands Meta-Para-Ontology beyond the boundaries of academic and disciplinary research, making it a practical methodology for exploring consciousness and applying its principles within individual human experience.
 </div>
 
 ___
