@@ -12,50 +12,104 @@ const TopMenu: QuartzComponent = (props) => {
        style="font-size:17px; color:#65502C; background:light-dark(#ede6d5, #2f2c26);"
      >
 
+      <style>
+        {`
+          .menu-tools-wide {
+            display: flex;
+            align-items: center;
+            margin-left: auto;
+          }
 
-      <nav>
+          .menu-tools-narrow {
+            display: none;
+          }
 
-        <a href="/" style="display:inline-block;margin-right:8px;margin-left:8px;">
-          Home
-        </a>
+          @media (max-width: 1100px) {
+            .menu-tools-wide {
+              display: none;
+            }
 
-        <span class="menu-divider">|</span>
+            .menu-tools-narrow {
+              display: flex;
+              flex-basis: 100%;
+              width: 100%;
+              align-items: center;
+              justify-content: center;
+              margin-top: 10px;
+            }
+          }
+        `}
+      </style>
 
-        <a href="/logical-gnosis/" style="display:inline-block;margin-right:8px;margin-left:8px;">
-          Logical Gnosis
-        </a>
+      <nav style="display:flex; flex-wrap:wrap; align-items:center;">
 
-        <span class="menu-divider">|</span>
+        <div class="menu-links" style="display:flex; flex-wrap:wrap; align-items:center;">
 
-        <a href="/meta-para-ontology/" style="display:inline-block;margin-right:8px;margin-left:8px;">
-          Meta-Para-Ontology
-        </a>
+          <a href="/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+            Home
+          </a>
 
-        <span class="menu-divider">|</span>
+          <span class="menu-divider">|</span>
 
-        <a href="/polymetaphysical-cartography/" style="display:inline-block;margin-right:8px;margin-left:8px;">
-          Polymetaphysics
-        </a>
+          <a href="/logical-gnosis/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+            Logical Gnosis
+          </a>
 
-        <span class="menu-divider">|</span>
+          <span class="menu-divider">|</span>
 
-        <a href="/media/" style="display:inline-block;margin-right:8px;margin-left:8px;">
-          Media
-        </a>
+          <a href="/meta-para-ontology/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+            Meta-Para-Ontology
+          </a>
 
-        <span class="menu-divider">|</span>
+          <span class="menu-divider">|</span>
 
-        <a href="/about/" style="display:inline-block;margin-right:8px;margin-left:8px;">
-          About
-        </a>
+          <a href="/polymetaphysical-cartography/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+            Polymetaphysics
+          </a>
 
-        <span style="display:inline-block;">
-          <SearchComponent {...props} />
-        </span>
+          <span class="menu-divider">|</span>
 
-        <span style="display:inline-block; margin-left:12px;">
-          <DarkModeComponent {...props} />
-        </span>
+          <a href="/media/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+            Media
+          </a>
+
+          <span class="menu-divider">|</span>
+
+          <a href="/about/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+            About
+          </a>
+
+        </div>
+
+
+        {/* Search + Theme — wide screen */}
+
+        <div class="menu-tools-wide">
+
+          <span style="display:inline-block;">
+            <SearchComponent {...props} />
+          </span>
+
+          <span style="display:inline-block; margin-left:12px;">
+            <DarkModeComponent {...props} />
+          </span>
+
+        </div>
+
+
+        {/* Search + Theme — narrow screen */}
+
+        <div class="menu-tools-narrow">
+
+          <span style="display:inline-block;">
+            <SearchComponent {...props} />
+          </span>
+
+          <span style="display:inline-block; margin-left:12px;">
+            <DarkModeComponent {...props} />
+          </span>
+
+        </div>
 
       </nav>
 
@@ -81,3 +135,4 @@ TopMenu.css = `
 
 
 export default (() => TopMenu) satisfies QuartzComponentConstructor
+

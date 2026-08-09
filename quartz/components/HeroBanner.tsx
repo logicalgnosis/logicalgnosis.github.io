@@ -9,9 +9,10 @@ const HeroBanner: QuartzComponent = () => {
             display: flex;
             align-items: center;
             justify-content: center;
-            gap: 70px;
-            margin-top: 5px;
-            margin-bottom: 35px;
+            gap: 50px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            background:light-dark(#fefcf9, #2f2c26);
           }
 
           .hero-banner-logo {

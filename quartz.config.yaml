@@ -22,10 +22,10 @@ configuration:
     colors:
       lightMode:
         light: "#fcf6ed"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
+        lightgray: "#edcf7e"
+        gray: "#858585"
         darkgray: "#3d3b38"
-        dark: "#5c482a"
+        dark: "#6e5735"
         secondary: "#916a30"
         tertiary: "#edcf7e"
         highlight: transparent
@@ -34,7 +34,7 @@ configuration:
         light: "#161618"
         lightgray: "#927442"
         gray: "#646464"
-        darkgray: "#D7D7D7"
+        darkgray: "#e8e8e8"
         dark: "#D9BE72"
         secondary: "#c79a46"
         tertiary: "#f5d98c"
