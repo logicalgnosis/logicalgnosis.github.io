@@ -24,6 +24,28 @@ const TopMenu: QuartzComponent = (props) => {
             display: none;
           }
 
+          /* Slightly reduce menu text as the available width decreases */
+
+          @media (max-width: 1200px) {
+            .top-menu {
+              font-size: 16px !important;
+            }
+          }
+
+          @media (max-width: 1050px) {
+            .top-menu {
+              font-size: 15px !important;
+            }
+          }
+
+          @media (max-width: 900px) {
+            .top-menu {
+              font-size: 14px !important;
+            }
+          }
+
+          /* Move Search + Theme to a separate centered row */
+
           @media (max-width: 1100px) {
             .menu-tools-wide {
               display: none;
