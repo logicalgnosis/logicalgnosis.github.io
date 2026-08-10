@@ -74,9 +74,26 @@ The universal operational dynamic generating distinction, structure, and the cau
 **Actualization Function**  
 The universal operational dynamic generating emergence, novelty, and the causal function of evolution.
 
+<style>
+  .program-banner {
+    max-width: 45%;
+    height: auto;
+  }
+
+  @media (max-width: 600px) {
+    .program-banner {
+      max-width: 70%;
+    }
+  }
+</style>
+
 <div style="text-align:center; margin: 2rem 0;">
   <a href="/logical-gnosis/self-guided-program/" data-no-popover="true">
-    <img src="/assets/banner01.jpeg" alt="Self-Guided Program" style="max-width:40%; height:auto;">
+    <img
+      src="/assets/banner01.jpeg"
+      alt="Self-Guided Program"
+      class="program-banner"
+    >
   </a>
 </div>
 

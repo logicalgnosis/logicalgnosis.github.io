@@ -12,16 +12,18 @@ const HeroBanner: QuartzComponent = () => {
             gap: 50px;
             margin-top: 0px;
             margin-bottom: 0px;
-            background:light-dark(#fefcf9, #2f2c26);
+            background: light-dark(#fefcf9, #2f2c26);
           }
 
           .hero-banner-logo {
             width: 175px;
             height: auto;
+            flex-shrink: 0;
           }
 
           .hero-banner-center {
             text-align: center;
+            flex-shrink: 0;
           }
 
           .hero-banner-main {
@@ -49,52 +51,58 @@ const HeroBanner: QuartzComponent = () => {
             }
 
             .hero-banner-logo {
-              width: 135px;
+              width: 140px;
             }
 
             .hero-banner-main,
             .hero-banner-subtitle {
-              font-size: 1.7rem;
+              font-size: 1.3rem;
+            }
+
+            .hero-banner-divider {
+              font-size: 0.65rem;
             }
           }
 
           @media (max-width: 600px) {
             .hero-banner {
-              gap: 20px;
+              gap: 25px;
             }
 
             .hero-banner-logo {
-              width: 95px;
+              width: 100px;
             }
 
             .hero-banner-main,
             .hero-banner-subtitle {
-              font-size: 1.45rem;
+              font-size: 1.1rem;
               letter-spacing: .07em;
             }
 
             .hero-banner-divider {
-              font-size: 0.6rem;
+              margin-top: 6px;
+              font-size: 0.55rem;
             }
           }
 
           @media (max-width: 400px) {
             .hero-banner {
-              gap: 12px;
+              gap: 15px;
             }
 
             .hero-banner-logo {
-              width: 70px;
+              width: 75px;
             }
 
             .hero-banner-main,
             .hero-banner-subtitle {
-              font-size: 1.25rem;
+              font-size: 0.9rem;
               letter-spacing: .05em;
             }
 
             .hero-banner-divider {
-              font-size: 0.55rem;
+              margin-top: 5px;
+              font-size: 0.5rem;
             }
           }
         `}
@@ -136,4 +144,3 @@ const HeroBanner: QuartzComponent = () => {
 }
 
 export default (() => HeroBanner) satisfies QuartzComponentConstructor
-
