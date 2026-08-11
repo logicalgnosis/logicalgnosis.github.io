@@ -65,7 +65,7 @@ If you recognized yourself in even one of these portraits, then you have already
 
 If these questions resonated with you, the best place to begin is not with the technical language of Meta-Para-Ontology itself. The ideas presented here belong to a much broader philosophical framework that brings together ontology, science, psychology, and contemplative traditions into a single coherent architecture. Entering that framework directly can feel overwhelming.
 
-For this reason, I recommend beginning with **[[Logical Gnosis]]**—a structured self-guided course designed to develop the conceptual tools needed to approach Meta-Para-Ontology as a coherent, integrated system.
+For this reason, I recommend beginning with the **[Self-Guided Program in Logical Gnosis](https://logicalgnosis.org/logical-gnosis/self-guided-program)**—a structured self-guided course designed to develop the conceptual tools needed to approach Meta-Para-Ontology as a coherent, integrated system.
 
 Whether your background is philosophy, science, psychology, spirituality, or simple intellectual curiosity, Logical Gnosis provides the foundation upon which the deeper architecture of Meta-Para-Ontology becomes visible.
 
