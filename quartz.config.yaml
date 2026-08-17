@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: logicalgnosis.github.io
+  baseUrl: logicalgnosis.org
   ignorePatterns:
     - private
     - templates
