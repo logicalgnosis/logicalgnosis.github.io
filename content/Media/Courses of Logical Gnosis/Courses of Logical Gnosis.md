@@ -2,12 +2,12 @@
 ## Two Courses. One Architecture.
 ___
   
-- ## [Course 1: Self-Guided Program in Logical Gnosis](/logical-gnosis/self-guided-program)
+- ## [Course 1: SELF-GUIDED PROGRAM IN LOGICAL GNOSIS](/logical-gnosis/self-guided-program)
   A self-guided course for a deep understanding of reality.
   
 ---
   
-- ## [Course 2: Self-Awareness & the Ontology of Belief](/logical-gnosis/self-awareness--and--the-ontology-of-belief)
+- ## [Course 2: SELF-AWARENESS & THE ONTOLOGY OF BELIEF](/logical-gnosis/self-awareness--and--the-ontology-of-belief)
   A practical meta-system for recognizing and reconstructing your own states, beliefs, and worldviews across different scales and paradigms.
   
 ---

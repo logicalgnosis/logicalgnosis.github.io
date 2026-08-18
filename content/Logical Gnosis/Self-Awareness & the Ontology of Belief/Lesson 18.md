@@ -718,9 +718,7 @@ This is where the work becomes larger than the course itself. A framework become
 
 Whether your next step leads toward contemplative realization, scientific research, philosophical inquiry, psychological or phenomenological investigation, or further work on Meta-Para-Ontology itself, the essential point is the same: the inquiry does not end where the course ends.
 
-Whatever direction you choose, I hope you carry this inquiry with the same attention and honesty with which you entered it. The questions developed here belong to no single discipline, and they do not require a final answer merely because the course has reached its end. They remain yours to examine.
-
-What has been developed here can be tested, extended, clarified, and transformed through whatever direction you choose to pursue.
+Whatever direction you choose, I hope you carry this inquiry with the same attention and honesty with which you entered it. What has been developed here can be tested, extended, clarified, and transformed through whatever direction you choose to pursue.
 
 **The doors are now open.**
 
