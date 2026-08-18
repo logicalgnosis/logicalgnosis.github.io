@@ -1,7 +1,8 @@
 ___
 Books currently in development. This page will be updated as new material becomes available.
 
-<<style>
+
+<style>
   .program-banner {
     max-width: 45%;
     height: auto;

@@ -1,5 +1,5 @@
 ___
-
+## _Course 1:_ 
 ## Welcome to the Self-Guided Program in Logical Gnosis
 
 This program is an unusual journey of philosophical exploration into metaphysical questions and the foundations of reality, designed to introduce you to Logical Gnosis and provide a practical introduction to the Meta-Para-Ontology system.
