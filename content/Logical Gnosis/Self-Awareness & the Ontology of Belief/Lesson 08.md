@@ -376,9 +376,7 @@ boundaries,
 
 and localization within the field.
 
-**Actualization** brings a particular organization
-
-into a new manifested configuration.
+**Actualization** brings a new configuration into Manifestation.
 
 These Functions do not need to be understood
 

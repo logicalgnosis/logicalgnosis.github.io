@@ -1,7 +1,8 @@
 ___
 ## The Ontological Polarity of Reality
 
-___
+---
+
 ## Lesson 1
 
 Before we go further,
@@ -64,7 +65,7 @@ And in each case,
 
 Now ask yourself a strange question.
 
-**Could it appear if there were no one to whom it appeared?**
+**Could it appear without a witnessing pole?**
 
 Do not interpret the question yet.
 
@@ -220,19 +221,23 @@ We are testing something more immediate:
 
 **Can Consciousness itself be determined
 
-through the same procedure
+**through the same procedure**
 
-by which the contents of Manifestation are determined?**
+**by which the contents of Manifestation are determined?**
 
 Notice what happens.
 
-The moment you attempt to determine Consciousness,
+The moment you attempt to determine Consciousness
+
+as a phenomenon within Manifestation,
 
 a new content enters the field.
 
 The experiment therefore does not produce
 
-a determination of the Witnessing Pole itself.
+a determination of the Witnessing Pole itself
+
+as an object within Manifestation.
 
 It produces another observation.
 
@@ -276,7 +281,7 @@ A sound is content.
 
 A memory is content.
 
-**Consciousness is not content.**
+Consciousness is not content.
 
 This distinction is easy to state.
 
@@ -366,13 +371,13 @@ it would already be something appearing.
 
 And something would once again be present to it.
 
-The problem therefore cannot be solved by simply adding consciousness
+The problem therefore cannot be solved by simply adding Consciousness
 
 to the list of existing things.
 
 So ask yourself:
 
-**What is already present before the list begins?**
+**What is already there as the list begins?**
 
 There is what is present.
 
@@ -380,9 +385,9 @@ And there is that to which it is present.
 
 Pause here.
 
-**Are these two separate things,
+**Are these two separate things,**
 
-or are they two poles of one relation?**
+**or are they two poles of one relation?**
 
 Do not answer too quickly.
 
@@ -434,11 +439,13 @@ Only Consciousness.
 
 Notice what happens.
 
-You cannot produce a determination of Consciousness itself
+You cannot determine Consciousness
+
+as another phenomenon within Manifestation
 
 without introducing something that appears within the field.
 
-The moment you attempt to determine it,
+The moment you attempt to determine it as an object,
 
 a new content enters the field.
 
@@ -458,21 +465,57 @@ They are contents appearing to Consciousness.
 
 The experiment therefore does not produce
 
-a determination of the Witnessing Pole itself.
+a determination of Consciousness as an object.
 
 It produces another observation.
 
 The distinction is important.
 
-**The experiment reveals a boundary of determination.**
+For now,
+
+hold only this distinction.
+
+**Consciousness can be determined through its relation to Manifestation.
+
+It cannot be determined as a phenomenon within Manifestation.**
+
+This gives us something more precise
+
+than saying that Consciousness simply cannot be determined.
+
+We can determine that it is the witnessing pole
+
+in relation to Manifestation.
+
+We can distinguish it from the contents that appear.
+
+We can establish its structural relation to what appears.
+
+What we cannot do
+
+is turn Consciousness itself
+
+into another phenomenon within the field
+
+and determine it in the same way
+
+as its contents.
+
+**The experiment reveals a boundary of phenomenal determination.**
 
 We were able to determine what appears.
 
-We were not able to determine that to which it appears
+We were able to establish the relation
 
-without introducing something that appears.
+between what appears
 
-Every attempt to determine the Witnessing Pole
+and that to which it appears.
+
+But we were not able to determine Consciousness itself
+
+as another item within that field.
+
+Every attempt to do so
 
 required some content through which the attempt itself
 
@@ -480,21 +523,29 @@ could be formulated.
 
 The page remained describable.
 
-Consciousness remained undescribed.
+The thought remained describable.
+
+The sensation remained describable.
+
+The relation between Consciousness and Manifestation
+
+could be described.
+
+But Consciousness itself did not become
+
+another described phenomenon.
 
 Not because the experiment failed,
 
-but because every attempt to determine Consciousness
+but because the object-domain of Manifestation
 
-through description introduced something other than Consciousness itself.
+does not contain Consciousness as one of its contents.
 
 The attempt does not reveal Consciousness as an object.
 
 It reveals the limit of determining Consciousness
 
-through the same procedure
-
-by which objects within Manifestation are determined.
+as an object within Manifestation.
 
 The problem is not that observation
 
@@ -526,13 +577,11 @@ the contents of Manifestation are determined.
 
 The experiment has established this boundary directly.
 
-**What appears can be determined through description.
+**What appears can be determined as a phenomenon.
 
-Consciousness cannot be determined
+Consciousness can be determined relationally,
 
-through the same procedure
-
-without introducing something other than Consciousness itself.**
+but not as another phenomenon within Manifestation.**
 
 This is the point we were looking for.
 
@@ -576,9 +625,13 @@ as one of those contents.
 
 It could not.
 
-**The boundary of determination reveals the boundary of the object-domain.**
+**The boundary of phenomenal determination reveals
 
-And this gives us a stronger understanding of the original distinction.
+the boundary of the object-domain.**
+
+And this gives us a stronger understanding
+
+of the original distinction.
 
 Manifestation contains what can appear,
 
@@ -608,9 +661,13 @@ The sound remained describable.
 
 The thought remained describable.
 
-Consciousness remained undescribed.
+The relation remained describable.
 
-The experiment therefore revealed what kind of thing Consciousness is not.
+Consciousness did not become another phenomenon.
+
+The experiment therefore revealed
+
+what kind of thing Consciousness is not.
 
 And that boundary is itself knowledge.
 
@@ -674,7 +731,7 @@ Some possibilities seem available.
 
 Others barely enter consideration.
 
-Even before you consciously decide what something means,
+Even before you deliberately decide what something means,
 
 the field has already acquired organization.
 

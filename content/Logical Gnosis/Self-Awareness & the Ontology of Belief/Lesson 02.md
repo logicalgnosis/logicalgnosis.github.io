@@ -38,7 +38,7 @@ The exact pressure of your feet against the floor.
 
 The distant sounds outside the room.
 
-You did not consciously construct all of these distinctions.
+You did not deliberately construct all of these distinctions.
 
 And yet,
 

@@ -392,6 +392,68 @@ is not necessarily fixed.
 
 That distinction will become increasingly important.
 
+Now pause.
+
+We have distinguished four functions.
+
+But notice how we encountered them.
+
+We did not encounter Chitta as a separate object.
+
+We encountered memory.
+
+We did not encounter Manas as a separate object.
+
+We encountered movement between thoughts and possibilities.
+
+We did not encounter Ahamkara as a separate object.
+
+We encountered the organization of experience as _I_ and _mine._
+
+We did not encounter Buddhi as a separate object.
+
+We encountered discrimination,
+
+determination,
+
+and the formation of new understanding.
+
+In each case,
+
+something was happening within experience.
+
+And the function became distinguishable
+
+through what was happening.
+
+Now compare this with what happened
+
+when we looked for Consciousness.
+
+We could observe thoughts.
+
+We could observe states.
+
+We could observe the sense of _I._
+
+Even the sense of being the observer
+
+could become something observed.
+
+But Consciousness did not appear
+
+as another element within that same field.
+
+**What is different here?**
+
+The difference is that these functions can be distinguished within the field of experience,
+
+while Consciousness is not another function or content within that field.
+
+The functions therefore belong to the organization of Manifestation.
+
+The Witnessing Pole does not.
+
 ---
 
 Now put the four functions together.

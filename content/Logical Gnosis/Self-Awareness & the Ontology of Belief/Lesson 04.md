@@ -8,11 +8,11 @@ We have now followed the three Functions
 
 beyond the psychological field,
 
-discovering their presence
+tracing their operation 
 
-in the very organization of Manifestation,
+through the organization of Manifestation,  
 
-from cosmological processes
+from cosmological processes  
 
 to phenomenal experience.
 
