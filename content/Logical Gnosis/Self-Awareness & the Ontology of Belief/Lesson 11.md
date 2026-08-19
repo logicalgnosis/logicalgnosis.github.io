@@ -380,9 +380,9 @@ These are expressions of **Actualization** within the cognitive organization of 
 
 Ask yourself:
 
-**Have you noticed the difference between a thought appearing
+**Have you noticed the difference between a thought appearing**
 
-and a new understanding forming from it?**
+**and a new understanding forming from it?**
 
 The thought may arise automatically.
 
@@ -398,33 +398,19 @@ We have distinguished four functions.
 
 But notice how we encountered them.
 
-We did not encounter Chitta as a separate object.
+We encountered Chitta as memory,
 
-We encountered memory.
+Manas as the movement of thought,
 
-We did not encounter Manas as a separate object.
+Ahamkara as the organization of experience around I and mine,
 
-We encountered movement between thoughts and possibilities.
-
-We did not encounter Ahamkara as a separate object.
-
-We encountered the organization of experience as _I_ and _mine._
-
-We did not encounter Buddhi as a separate object.
-
-We encountered discrimination,
-
-determination,
-
-and the formation of new understanding.
+and Buddhi as discrimination and the formation of new understanding.
 
 In each case,
 
-something was happening within experience.
+the function became distinguishable
 
-And the function became distinguishable
-
-through what was happening.
+through what was happening within experience.
 
 Now compare this with what happened
 
@@ -434,7 +420,7 @@ We could observe thoughts.
 
 We could observe states.
 
-We could observe the sense of _I._
+We could observe the sense of I.
 
 Even the sense of being the observer
 
@@ -444,15 +430,17 @@ But Consciousness did not appear
 
 as another element within that same field.
 
-**What is different here?**
+What is different here?
 
-The difference is that these functions can be distinguished within the field of experience,
+We have encountered the same distinction again.
 
-while Consciousness is not another function or content within that field.
+The functions of Antaḥkaraṇa can be distinguished
 
-The functions therefore belong to the organization of Manifestation.
+within the field of experience.
 
-The Witnessing Pole does not.
+Consciousness remains the Witnessing Pole
+
+to which that field is present.
 
 ---
 
