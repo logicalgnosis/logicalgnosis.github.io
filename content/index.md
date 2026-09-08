@@ -21,13 +21,9 @@ ___
 <p></p>
 <p></p> • It builds a structural bridge between Western scientific and philosophical thought and the metaphysical traditions of the East, advancing a synthesis that has long been sought. Such a synthesis, however, has lacked a clear conceptual apparatus for integrating these traditions within a unified system of reality without reducing one to the other.
 <p></p>
-<p></p> • It reveals the structural relationships between philosophical systems, showing that many of their apparent contradictions arise from different perspectives on reality and can be located within a unified map of reality.
-<p></p>
 <p></p> • It does not ask you to replace one worldview with another, but provides a framework for understanding how different worldviews relate to one another, allowing different perspectives to coexist while preserving their individual integrity.
 <p></p>
 <p></p> • It seeks to build a bridge between rational inquiry and metaphysical understanding, making it possible to explore questions that have long remained divided between scientific skepticism and leaps of faith.
-<p></p>
-<p></p> • It is not meant to be believed. It is meant to be understood, explored, and used as an instrument of rational inquiry into the structure of reality.
 <p></p>
 <p></p> • It offers practical methodologies for interdisciplinary analysis, discovering a common structural syntax beneath the different conceptual languages of science, philosophy, psychology, and contemplative traditions.
 <p></p>
