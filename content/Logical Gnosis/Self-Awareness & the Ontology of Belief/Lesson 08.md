@@ -616,9 +616,9 @@ You are beginning to recognize a pattern.
 
 And this introduces a new question.
 
-**What happens when configurations do not merely occur,
+**What happens when configurations do not merely occur,**
 
-but recur?**
+**but recur?**
 
 What happens when previously formed organization
 

@@ -136,9 +136,9 @@ almost immediately.
 
 Now ask yourself:
 
-**What happens when an interpretation
+**What happens when an interpretation**
 
-no longer needs to be formed from the beginning?**
+**no longer needs to be formed from the beginning?**
 
 Something has become stable.
 

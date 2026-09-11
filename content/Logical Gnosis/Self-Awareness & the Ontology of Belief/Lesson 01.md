@@ -15,7 +15,7 @@ we arrived somewhere important.
 
 Consciousness, we found,
 
-is **not identical with the things that appear.**
+is not identical with the things that appear.
 
 A thought appears.
 
@@ -61,7 +61,7 @@ A thought appears.
 
 And in each case,
 
-**it appears to you.**
+it appears to you.
 
 Now ask yourself a strange question.
 
@@ -115,9 +115,9 @@ could appear.
 
 What remains?
 
-An appearance without appearing to anything?
+**An appearance without appearing to anything?**
 
-Can that still be called an appearance?
+**Can that still be called an appearance?**
 
 Pause here.
 
@@ -125,7 +125,7 @@ Do not rush past the difficulty.
 
 The question is not whether an event could occur without being noticed.
 
-The question is whether **appearance as appearance**
+The question is whether appearance as appearance
 
 can be understood without a witnessing pole
 
@@ -219,7 +219,7 @@ We are not trying to settle that question here.
 
 We are testing something more immediate:
 
-**Can Consciousness itself be determined
+**Can Consciousness itself be determined**
 
 **through the same procedure**
 
@@ -475,9 +475,9 @@ For now,
 
 hold only this distinction.
 
-**Consciousness can be determined through its relation to Manifestation.
+**Consciousness can be determined through its relation to Manifestation.**
 
-It cannot be determined as a phenomenon within Manifestation.**
+**It cannot be determined as a phenomenon within Manifestation.**
 
 This gives us something more precise
 
@@ -577,11 +577,11 @@ the contents of Manifestation are determined.
 
 The experiment has established this boundary directly.
 
-**What appears can be determined as a phenomenon.
+**What appears can be determined as a phenomenon.**
 
-Consciousness can be determined relationally,
+**Consciousness can be determined relationally,**
 
-but not as another phenomenon within Manifestation.**
+**but not as another phenomenon within Manifestation.**
 
 This is the point we were looking for.
 
@@ -625,9 +625,9 @@ as one of those contents.
 
 It could not.
 
-**The boundary of phenomenal determination reveals
+**The boundary of phenomenal determination reveals**
 
-the boundary of the object-domain.**
+**the boundary of the object-domain.**
 
 And this gives us a stronger understanding
 

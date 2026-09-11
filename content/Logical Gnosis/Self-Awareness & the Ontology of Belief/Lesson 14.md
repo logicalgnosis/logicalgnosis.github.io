@@ -24,11 +24,11 @@ A single thought.
 
 Here is the distinction we are testing.
 
-**A thought being present,
+**A thought being present,**
 
-and what happens afterward,
+**and what happens afterward,**
 
-are not necessarily the same event.**
+**are not necessarily the same event.**
 
 We touched something similar several lessons ago,
 
@@ -194,9 +194,9 @@ You simply do not deliberately construct another thought from it.
 
 The important distinction is this:
 
-**The presence of one thought does not guarantee
+**The presence of one thought does not guarantee**
 
-the deliberate production of the next.**
+**the deliberate production of the next.**
 
 The first thought did not need your deliberate selection to appear.
 

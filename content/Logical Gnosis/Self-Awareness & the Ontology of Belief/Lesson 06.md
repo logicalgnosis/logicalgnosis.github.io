@@ -114,7 +114,9 @@ _I should ask what happened instead of assuming._
 
 The important point is not which configuration forms.
 
-The important point is that **something new can be formed from the possibilities available within the present interaction**.
+The important point is that
+
+**something new can be formed from the possibilities available within the present interaction.**
 
 Ask yourself what happens when these three Functions repeatedly converge around the same configurations.
 
@@ -156,7 +158,7 @@ Give it its ordinary name.
 
 **A worldview.**
 
-But what exactly is a worldview?
+**But what exactly is a worldview?**
 
 Is it a list you could recite if someone asked what you believe?
 
@@ -446,7 +448,7 @@ think to question.
 
 Now ask:
 
-**Could this feel equally obvious
+**Could this feel equally obvious**
 
 **to someone whose previously formed configurations**
 

@@ -258,9 +258,9 @@ A new configuration has been realized.
 
 Ask yourself:
 
-**Was that new configuration already present as an object,
+**Was that new configuration already present as an object,**
 
-waiting somewhere to be noticed?**
+**waiting somewhere to be noticed?**
 
 Or did something genuinely new become actual?
 

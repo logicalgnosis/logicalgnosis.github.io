@@ -442,8 +442,6 @@ Consciousness remains the Witnessing Pole
 
 to which that field is present.
 
----
-
 Now put the four functions together.
 
 **Chitta** concerns previously formed material

@@ -520,7 +520,9 @@ That is also useful.
 
 The purpose is not to produce a successful modification.
 
-It is to move the state from **implicit experience** into **explicit examination**.
+It is to move the state from **implicit experience**
+
+into **explicit examination**.
 
 This also clarifies the difference between suppression and reconfiguration.
 
@@ -530,7 +532,9 @@ Suppression says:
 
 Reconfiguration says:
 
-**I can see how this state is organized. What happens if I alter its organization?**
+**I can see how this state is organized.**
+
+**What happens if I alter its organization?**
 
 Suppression fights the existence of the configuration.
 

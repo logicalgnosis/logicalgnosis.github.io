@@ -124,7 +124,7 @@ A relation cannot be identified.
 
 There may still be something present,
 
-but there is no clear **this rather than that**.
+but there is no clear this rather than that.
 
 The problem is not that nothing exists.
 
@@ -414,9 +414,9 @@ and a meaningful
 
 Now ask:
 
-**What is this relation
+**What is this relation**
 
-if not temporality?**
+**if not temporality?**
 
 And what do we ordinarily call
 
@@ -572,9 +572,9 @@ and related.
 
 Now ask:
 
-**What is the dimensional expression
+**What is the dimensional expression**
 
-of such differentiation?
+**of such differentiation?**
 
 What do we ordinarily call
 
@@ -646,9 +646,9 @@ Relations can be established.
 
 But ask:
 
-**Is anything genuinely new
+**Is anything genuinely new**
 
-possible yet?**
+**possible yet?**
 
 A previous configuration can return.
 

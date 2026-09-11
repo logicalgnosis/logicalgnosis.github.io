@@ -342,11 +342,11 @@ or worldview.
 
 It is:
 
-**the increasing visibility
+**the increasing visibility**
 
-of the structures
+**of the structures**
 
-through which they are organized.**
+**through which they are organized.**
 
 Now the original distinction
 

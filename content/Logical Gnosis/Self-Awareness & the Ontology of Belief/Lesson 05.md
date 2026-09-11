@@ -386,9 +386,9 @@ Ask yourself, moment by moment:
 
 **Could the same event have been organized differently?**
 
-**What new configuration could emerge
+**What new configuration could emerge**
 
-from the possibilities available within that field?**
+**from the possibilities available within that field?**
 
 Notice how difficult this can be to see.
 
