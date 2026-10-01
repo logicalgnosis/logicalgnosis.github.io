@@ -1,7 +1,7 @@
 ___
 # Meta-Para-Ontology as a Universal Meta-System: Criteria for a Meta-Level Theory of Everything and Transdisciplinary Analysis
 
-https://doi.org/10.5281/zenodo.22943509
+Shapoval, O. (2026). Meta-Para-Ontology as a Universal Meta-System: Criteria for a Meta-Level Theory of Everything and Transdisciplinary Analysis. Zenodo. https://doi.org/10.5281/zenodo.22943509
 
 ## Abstract
 
