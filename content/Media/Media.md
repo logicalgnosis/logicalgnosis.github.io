@@ -1,3 +1,16 @@
 ______
 
-The sections below—**[Academic Works](/media/academic-works)**, **[Books](/media/books)**, **[Essays](/media/essays)**, **[Video Lectures](/media/video-lectures)** and **[Courses of Logical Gnosis](/logical-gnosis)**—provide access to the published bibliography, essays, books, and educational materials devoted to **Meta-Para-Ontology** and **Logical Gnosis**. Academic publications may be read or downloaded directly from **[PhilArchive](https://philpeople.org/profiles/oleksandr-shapoval)** and **[Zenodo](https://zenodo.org/communities/metaparaontology)**, while a broader collection of essays and ongoing philosophical reflections is available on **[Medium](https://medium.com/@metaparaontology)** and **[Substack](https://metaparaontology.substack.com/)**.
+The sections below—**[Academic Works](/media/academic-works)**, **[Books](/media/books)**, **[Essays](/media/essays)**, **[Video Lectures](/media/video-lectures)** and **[Courses of Logical Gnosis](/media/courses-of-logical-gnosis)**—provide access to the published bibliography, essays, books, and educational materials devoted to **Meta-Para-Ontology** and **Logical Gnosis**. Academic publications may be read or downloaded directly from **[PhilArchive](https://philpeople.org/profiles/oleksandr-shapoval)** and **[Zenodo](https://zenodo.org/communities/metaparaontology)**, while a broader collection of essays and ongoing philosophical reflections is available on **[Medium](https://medium.com/@metaparaontology)** and **[Substack](https://metaparaontology.substack.com/)**.
+
+
+___
+- ## [Academic Works](/media/academic-works)
+---
+- ## [Books](/media/books)
+---
+- ## [Essays](/media/essays)
+---
+- ## [Courses of Logical Gnosis](/media/courses-of-logical-gnosis)
+---
+- ## [Video Lectures](/media/video-lectures)
+---
