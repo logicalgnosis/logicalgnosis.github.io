@@ -9,7 +9,7 @@ const TopMenu: QuartzComponent = (props) => {
   return (
      <div
        class="top-menu"
-       style="font-size:17px; color:#65502C; background:light-dark(#ede6d5, #2f2c26);"
+       style="font-size:19px; color:#65502C; background:light-dark(#ede6d5, #2f2c26);"
      >
 
       <style>
@@ -67,37 +67,37 @@ const TopMenu: QuartzComponent = (props) => {
 
         <div class="menu-links" style="display:flex; flex-wrap:wrap; align-items:center;">
 
-          <a href="/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+          <a href="/" style="display:inline-block;margin-right:11px;margin-left:11px;">
             Home
           </a>
 
           <span class="menu-divider">|</span>
 
-          <a href="/logical-gnosis/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+          <a href="/logical-gnosis/" style="display:inline-block;margin-right:11px;margin-left:11px;">
             Logical Gnosis
           </a>
 
           <span class="menu-divider">|</span>
 
-          <a href="/meta-para-ontology/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+          <a href="/meta-para-ontology/" style="display:inline-block;margin-right:11px;margin-left:11px;">
             Meta-Para-Ontology
           </a>
 
           <span class="menu-divider">|</span>
 
-          <a href="/polymetaphysical-cartography/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+          <a href="/polymetaphysical-cartography/" style="display:inline-block;margin-right:11px;margin-left:11px;">
             Polymetaphysics
           </a>
 
           <span class="menu-divider">|</span>
 
-          <a href="/media/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+          <a href="/media/" style="display:inline-block;margin-right:11px;margin-left:11px;">
             Media
           </a>
 
           <span class="menu-divider">|</span>
 
-          <a href="/about/" style="display:inline-block;margin-right:8px;margin-left:8px;">
+          <a href="/about/" style="display:inline-block;margin-right:11px;margin-left:11px;">
             About
           </a>
 
@@ -157,4 +157,3 @@ TopMenu.css = `
 
 
 export default (() => TopMenu) satisfies QuartzComponentConstructor
-

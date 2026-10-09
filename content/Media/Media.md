@@ -4,13 +4,24 @@ The sections below—**[Academic Works](/media/academic-works)**, **[Books](/med
 
 
 ___
+
 - ## [Academic Works](/media/academic-works)
----
+
+<div style="margin-bottom: 18px;"></div>
+
 - ## [Books](/media/books)
----
+
+<div style="margin-bottom: 18px;"></div>
+
 - ## [Essays](/media/essays)
----
+
+<div style="margin-bottom: 18px;"></div>
+
 - ## [Courses of Logical Gnosis](/media/courses-of-logical-gnosis)
----
+
+<div style="margin-bottom: 18px;"></div>
+
 - ## [Video Lectures](/media/video-lectures)
+
+
 ---
