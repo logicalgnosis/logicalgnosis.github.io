@@ -11,7 +11,7 @@ Suppose someone asked you a very simple question.
 
 **Can a single way of thinking explain reality completely?**
 
-At first glance the answer seems obvious.
+At first glance, the answer seems obvious.
 
 Many people would immediately answer:
 
@@ -41,7 +41,7 @@ That is a very different question.
 
 Take materialism.
 
-Materialism has achieved extraordinary success. Modern physics, chemistry, biology, engineering, and medicine all stand upon it. Few intellectual achievements in history have transformed civilization so profoundly.
+Materialism has achieved extraordinary success as a worldview closely associated with the development of modern science. Physics, chemistry, biology, engineering, and medicine have transformed our understanding of the world and our ability to act within it. Few intellectual achievements in history have transformed civilization so profoundly.
 
 There is no reason to deny any of this.
 
@@ -89,7 +89,7 @@ It has simply reached the edge of the territory it naturally describes.
 
 Now let us try the opposite direction.
 
-Suppose consciousness is fundamental.
+Suppose mind or consciousness is fundamental.
 
 Many philosophical traditions have proposed exactly this.
 
@@ -99,17 +99,17 @@ Again, let us not argue with it.
 
 Instead, let us ask exactly the same question.
 
-If consciousness explains everything, can it naturally explain particle physics?
+Can idealism naturally include particle physics within its own explanatory framework?
 
-Can it reconstruct chemistry?
+Can it do the same with chemistry?
 
-Can it derive evolutionary biology?
+With evolutionary biology?
 
-Can it reproduce the predictive power of modern engineering?
+With the predictive power of modern engineering?
 
-Perhaps someday it could.
+Perhaps a particular form of idealism could develop such an account.
 
-Perhaps not.
+But doing so might require it to draw on the methods, criteria, and standards of explanation established within these very disciplines.
 
 Again, that is not today's question.
 
@@ -139,7 +139,7 @@ Let us continue.
 
 Consider what we broadly call mysticism.
 
-Different traditions give it different names.
+Different traditions describe their deepest insights in very different terms.
 
 Some speak of God.
 
@@ -155,15 +155,11 @@ The names are different.
 
 The experiences are described differently.
 
-But many of these traditions make a similar claim.
+Yet across many of these traditions, a recurring claim appears.
 
-Reality can be known directly. 
+Reality can be known directly.
 
-Independent of concepts. 
-
-Independent of measurement. 
-
-Through direct awareness.
+Through awareness that is not reducible to conceptual explanation or measurement.
 
 Suppose this claim is true.
 
@@ -171,7 +167,7 @@ Suppose such realization genuinely reveals something profound.
 
 A new question immediately appears.
 
-Can that realization, by itself, become a universal language capable of describing physics?
+Can that realization, by itself, provide a universal framework capable of describing physics?
 
 Biology?
 
@@ -191,9 +187,9 @@ Each approach illuminates part of reality.
 
 Each develops extraordinary depth within its own territory.
 
-Each eventually begins speaking its own language.
+Each develops its own language, methods, and standards of explanation.
 
-And once that happens, something else disappears from view.
+And when one approach becomes the framework through which everything else is interpreted, aspects of reality described by other approaches may become difficult to recognize on their own terms.
 
 Pause for a moment.
 
@@ -213,15 +209,15 @@ Perhaps the problem is not that these systems contradict one another.
 
 Perhaps the problem begins much earlier.
 
-Perhaps every system naturally observes reality from one particular position.
+Perhaps every system approaches reality through its own fundamental principles, concepts, and methods of explanation.
 
-If that is true, then every system will inevitably illuminate some regions more clearly than others.
+If that is true, then every system will illuminate some regions more clearly than others.
 
-Not because it is mistaken.
+Not necessarily because it is mistaken.
 
-Simply because every observation begins somewhere.
+But because its way of understanding reality has a particular scope.
 
-And if every observation begins somewhere...
+And if every system has its own scope...
 
 perhaps another question should come first.
 

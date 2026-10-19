@@ -1,7 +1,7 @@
 ___
 # From Indian Metaphysics to Universal Ontology: Sāṃkhya, Sri Aurobindo, Meta-Para-Ontology
 
-Oleksandr, S. (2026). From Indian Metaphysics to Universal Ontology: Sāṃkhya, Sri Aurobindo, Meta-Para-Ontology. Zenodo. https://doi.org/10.5281/zenodo.23082944
+Shapoval, O. (2026). From Indian Metaphysics to Universal Ontology: Sāṃkhya, Sri Aurobindo, Meta-Para-Ontology. Zenodo. https://doi.org/10.5281/zenodo.23082944
 
 ## Abstract 
 

@@ -21,10 +21,14 @@ This website serves as the central hub for the foundational works of Meta-Para-O
 - **Research Archive (DOI):** [Zenodo](https://zenodo.org/communities/metaparaontology)
 - **Essays & Articles:** [Medium](https://medium.com/@metaparaontology) and [Substack](https://metaparaontology.substack.com/)
 - **Forum:** [Logical Gnosis Community](https://logicalgnosis.discourse.group/)
-- **News & Discussions:** [Telegram](http://t.me/LogicalGnosis)
+- **News & Discussions:** [Telegram](https://t.me/LogicalGnosis)
 - **Network:** [Facebook Page](https://www.facebook.com/logicalgnosis)
-- **Patreon:** [Meta-Para-Ontology Research](https://www.patreon.com/c/metaparaontology)
 - **Video:** [YouTube](https://www.youtube.com/@MetaParaOntology)
+
+**Support:**
+
+- **Patreon:** [Meta-Para-Ontology Research](https://www.patreon.com/c/metaparaontology)
+- **Ko-fi:** [Logical Gnosis](https://ko-fi.com/logicalgnosis)
 
 ---
 

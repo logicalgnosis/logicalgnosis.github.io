@@ -5,10 +5,8 @@ title: Home
 ---
 ___
 <div style="color:light-dark(#916a30, #b28533); font-size:1.8rem;">
-<strong>Welcome!</strong>
+<strong>Meta-Para-Ontology is a Universal Meta-System.</strong>
 </div>
-
-## **Meta-Para-Ontology is a Universal Meta-System.**
 
 <div style="color:light-dark(#8a6228, #e8e8e8); font-size:1.1rem;">
 <p></p> We live among countless perspectives, ideas, beliefs, and interpretations of reality, filled with contradictions, mutually exclusive theories, and conflicting worldviews. Meta-Para-Ontology and Logical Gnosis reconcile these contradictions by offering a coherent picture of reality that allows different ideas to coexist harmoniously beyond ideological conflict. They introduce a radically new Meta-System in which science, philosophy, psychology, and contemplative traditions become complementary perspectives within a single intelligible architecture. I hope these ideas will prove useful to a wide circle of thoughtful people, making the world a little clearer and our existence within it a little more harmonious.
