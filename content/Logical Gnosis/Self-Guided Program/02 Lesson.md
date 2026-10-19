@@ -5,7 +5,7 @@ ___
 ### Key Terms
 
 - **Ontology** — _The branch of philosophy concerned with the nature of being, existence, and reality._
-- **The Absolute** — _The ultimate reality understood as existing beyond all finite distinctions and conceptual determination._
+- **The Absolute** — _The ultimate, all-encompassing reality understood as the totality and ground of existence, including and transcending all finite forms, distinctions, and conceptual determinations._
 ___
 ## Lesson 2
 
@@ -141,7 +141,11 @@ Beyond that point...
 
 reality may continue without interruption.
 
-Only our capacity to describe it has reached its limit.
+Only our capacity to describe it adequately has reached its limit.
+
+Our concepts can no longer adequately express what lies beyond that boundary,
+
+and our categories can no longer define it.
 
 Perhaps this also explains something else.
 
@@ -167,7 +171,7 @@ We have begun asking a different question altogether.
 
 and
 
-**what forever remains beyond description?**
+**what forever remains beyond adequate description?**
 
 For the first time, reality and ontology are no longer confused.
 
@@ -175,27 +179,23 @@ Reality may be larger than every possible description.
 
 Ontology is not.
 
-Ontology begins exactly where meaningful description becomes possible.
+It can only identify the limits of what can be adequately described.
+
+Ontology begins where meaningful description becomes possible.
 
 And it ends where meaningful description can no longer continue.
 
 If ontology is the domain of describable reality...
 
-perhaps ontology itself possesses an underlying structure.
+then we can begin by investigating its boundaries...
 
-If such a structure exists...
-
-it should allow every description to become locatable...
-
-without itself becoming one of the descriptions.
+and seeking to identify the underlying structure that makes this domain intelligible.
 
 The Next Question...
 
-**If such an underlying structure exists...**
+**How can we identify the boundaries of ontology...**
 
-**how could we possibly discover it?**
-
-That is where our investigation now continues.
+**and discover the structure underlying the domain of describable reality?**
 
 
 ---
