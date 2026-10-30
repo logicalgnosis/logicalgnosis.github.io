@@ -71,6 +71,54 @@ Neither can demonstrate that its description is final.
 
 Both point toward something that appears to exceed every description.
 
+But why does this difficulty arise in the first place?
+
+To describe something, we must give it a definite meaning.
+
+We must establish what it is.
+
+And what distinguishes it from everything else.
+
+But how can we define the Absolute through distinctions and boundaries...
+
+if the Absolute is understood as that which encompasses everything?
+
+Every definition captures something specific.
+
+Yet the Absolute is supposed to exceed every such determination.
+
+Here, thought encounters a paradox.
+
+The very act of defining the Absolute seems to limit what it seeks to comprehend.
+ 
+When concepts such as the Absolute,
+
+God,
+
+Brahman,
+
+or Dao
+
+are classified as ontological concepts, they become subject to the distinctions and categories of ontology.
+
+Yet the reality they refer to may encompass more than these categories can adequately describe.
+
+And here a question emerges.
+
+Can ontology itself account for the full extent of a reality that encompasses ontology itself?
+
+Can it include what it cannot meaningfully describe?
+
+Simply naming something does not mean that we have adequately described it.
+
+We may distinguish the ontological from the trans-ontological.
+
+We may even assign a concept to what lies beyond the limits of ontology.
+
+Yet the concept remains a word.
+
+It does not provide us with a form, a boundary, or a set of properties through which we could adequately define its referent.
+
 Something important begins to emerge.
 
 The difficulty is no longer disagreement.
@@ -146,6 +194,12 @@ Only our capacity to describe it adequately has reached its limit.
 Our concepts can no longer adequately express what lies beyond that boundary,
 
 and our categories can no longer define it.
+
+Our words are limited by their own meanings,
+
+and cannot describe what lies beyond the limits of those meanings.
+
+Eventually, they give way to metaphors and paradoxes.
 
 Perhaps this also explains something else.
 
