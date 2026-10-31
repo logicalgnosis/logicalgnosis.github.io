@@ -251,6 +251,7 @@ The Next Question...
 
 **and discover the structure underlying the domain of describable reality?**
 
+![](https://youtu.be/ie3mGH5WNDg)
 
 ---
 ### [[/logical-gnosis/self-guided-program/03-lesson|NEXT: Lesson 03]]

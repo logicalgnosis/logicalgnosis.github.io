@@ -14,6 +14,8 @@ There is no need to hurry. This program prioritizes deep understanding over rapi
 
 **[This is the path to Logical Gnosis.](/logical-gnosis/self-guided-program/01-lesson)**
 
+![](https://youtu.be/Sc_Edh8VYvo)
+
 ---
 ### [[logical-gnosis/self-guided-program/01-lesson|START: Lesson 01]]
 

@@ -237,6 +237,7 @@ can we understand what any genuine map of reality is actually capable of contain
 
 That is where our investigation now continues.
 
+![](https://youtu.be/LWSvkiC1v3k)
 
 ---
 ### [[/logical-gnosis/self-guided-program/02-lesson|NEXT: Lesson 02]]

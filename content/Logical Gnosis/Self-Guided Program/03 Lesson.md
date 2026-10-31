@@ -186,9 +186,11 @@ Yet the designer does not memorize millions of isolated shades.
 
 Instead, every color is located within a common coordinate system.
 
-The coordinate system is not itself a color.
+The coordinate system does not privilege one color over another.
 
-It does not compete with colors.
+It does not exclude colors that contrast with one another.
+
+On the contrary.
 
 It simply makes every color locatable.
 
