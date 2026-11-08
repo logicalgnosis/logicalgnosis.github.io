@@ -1,5 +1,5 @@
 ___
-## The Outline of Ontology
+## The Contour of Ontology
 ___
 ### Key Terms
 
@@ -330,6 +330,7 @@ Only now can the Registers begin to emerge...
 as necessary structural regions of the ontological landscape itself.
 
 
+![](https://youtu.be/A5K9m6fz9QA)
 
 ---
 ### [[/logical-gnosis/self-guided-program/05-lesson|NEXT: Lesson 05]]

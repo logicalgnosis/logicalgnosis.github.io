@@ -372,7 +372,7 @@ and what, if anything, do they all still share?
 
 Perhaps the question is no longer about choosing the correct ontology.
 
-Perhaps it is about discovering the smallest structural framework capable of locating every ontology...
+Perhaps it is about discovering the underlying structural framework capable of locating every ontology...
 
 without becoming one of them.
 
@@ -390,9 +390,9 @@ Perhaps what is missing is simply a way of locating them.
 
 The Registers are therefore not additional structures hidden inside reality.
 
-Nor are they another ontology competing with the rest.
+They do not compete with other systems of thought.
 
-They are the coordinate system constructed to organize the ontological landscape itself.
+They provide the coordinate system for organizing the ontological landscape itself.
 
 Like every coordinate system...
 
@@ -400,6 +400,8 @@ they do not replace the territory.
 
 They simply allow the territory to become intelligible.
 
+
+![](https://youtu.be/iUeAGSUyOTU)
 
 ---
 ### [[/logical-gnosis/self-guided-program/04-lesson|NEXT: Lesson 04]]

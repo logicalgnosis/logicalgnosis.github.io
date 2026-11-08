@@ -131,15 +131,13 @@ the condition from which determination itself first becomes possible.
 
 Notice what has happened.
 
-We did not begin with one tradition and search for confirmation elsewhere.
-
 We allowed radically different traditions to converge upon the same structural boundary.
 
-The conclusion therefore does not belong to Indian philosophy.
+The conclusion belongs not only to Indian philosophy,
 
-Nor to cosmology.
+cosmology,
 
-Nor to quantum theory.
+or quantum theory.
 
 It belongs to the architecture they unexpectedly reveal together.
 
@@ -529,7 +527,7 @@ One familiar example is the **CMYK** color model used in color printing.
 
 It is built upon four primary colors.
 
-Could we introduce a fifth primary color?
+Could we introduce a fifth coordinate?
 
 Certainly.
 
@@ -539,19 +537,15 @@ Perhaps even a sixth.
 
 Or a seventh.
 
-Some color transitions might become smoother.
+However, the four primary colors and the printable colour space remain unchanged.
 
-Some technical applications might even benefit.
+The additional coordinates merely subdivide or describe that same space in greater detail.
 
-But something essential would remain unchanged.
+Every additional coordinate would introduce another register of description, without expanding the model itself.
 
-The original four coordinates already span the entire printable colour space.
+No new possibilities would emerge from this addition.
 
-Every additional coordinate merely refines regions that were already present.
-
-The model becomes more detailed.
-
-It does not become fundamentally larger.
+It would only make the model more complex.
 
 Perhaps ontology behaves in exactly the same way.
 
