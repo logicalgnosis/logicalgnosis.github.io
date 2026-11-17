@@ -73,11 +73,19 @@ Or does ontology itself determine the answer?
 
 ## **The First Register**
 
-Where should we begin?
+In the previous lesson, we identified the outline of ontology.
 
-The answer seems almost unavoidable.
+We established its two boundaries.
 
-If ontology truly has a beginning...
+We discovered where ontology begins
+
+and where it reaches its final limit.
+
+Let us recall how we arrived at its first boundary
+
+and establish the very first Register.
+
+So, if ontology truly has a beginning...
 
 then whatever occupies its first region cannot already belong to an established ontology.
 
@@ -90,8 +98,6 @@ Nor mind.
 Nor information.
 
 Nor process.
-
-Nor consciousness.
 
 Every one of them already belongs somewhere further inside the ontological landscape.
 
@@ -316,27 +322,27 @@ Wouldn't it?
 
 But something resists that conclusion.
 
-If Manifestation truly exhausts ontology...
+Even if the three Registers account for the entire field of ontology...
 
 then one of philosophy's oldest questions remains unanswered.
 
 We move beyond asking what appears...
 
-to asking how appearance itself becomes recognized.
+to asking about the one to whom it appears.
 
-Can Manifestation itself become an object of reflection?
+Without accounting for the relationship between Manifestation itself...
 
-Can the structures through which reality appears...
+and the one to whom it appears...
 
-themselves become visible?
+ontology would seem incomplete.
 
-If not...
+It could successfully describe the world
 
-ontology would forever remain confined within its own descriptions.
+while leaving the observer...
 
-It could successfully describe the world...
+and its relationship to Manifestation
 
-yet never describe the relation between the observer and the world being described.
+unaccounted for.
 
 Once again...
 
