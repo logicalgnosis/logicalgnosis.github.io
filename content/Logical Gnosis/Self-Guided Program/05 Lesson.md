@@ -58,7 +58,7 @@ Its boundaries are visible.
 
 Only one question remains.
 
- What actually fills the space between them?
+What actually fills the space between them?
 
 How many structural regions are truly necessary to describe the entire ontological landscape?
 
@@ -107,7 +107,7 @@ Rather than choosing a single philosophy...
 
 let us examine the entire landscape.
 
-Modern cosmology speaks about a primordial singularity before measurable spacetime unfolds.
+Classical cosmology points toward a primordial singularity at the limit of spacetime.
 
 Quantum cosmology investigates pre-geometric conditions preceding physical structure.
 
@@ -172,7 +172,7 @@ Quantum theory increasingly describes reality through correlations rather than i
 
 Information theory shifts attention from substance toward organization.
 
-The holographic principle suggests that structure precedes geometry.
+Some holographic approaches suggest that spacetime geometry emerges from more fundamental relations.
 
 Complex systems theory studies the spontaneous emergence of stable organization.
 
@@ -364,9 +364,25 @@ The discrimination between the true Self...
 
 and everything that merely appears within experience.
 
-Phenomenology likewise investigates the distinction between experience...
+Phenomenology likewise examines intentionality...
 
-and the structures through which experience becomes constituted.
+the relation between the experiencing subject...
+
+and the objects toward which experience is directed.
+
+Many other thinkers...
+
+Descartes.
+
+Kant.
+
+Fichte.
+
+Each approached the problem of subject and object...
+
+sometimes reaching the limits of ultimate reflection...
+
+through their own philosophical concepts.
 
 Different traditions.
 
@@ -374,27 +390,39 @@ Different vocabulary.
 
 The same structural distinction.
 
-Notice carefully what is happening.
+Notice what emerges across these different approaches.
 
-They are not introducing another world.
+Despite their different metaphysical assumptions...
 
-Not another substance.
+they repeatedly distinguish between the observer...
 
-Not another layer of reality.
+and that which is observed.
 
-Instead...
+This distinction appears in different forms...
 
-they investigate the distinction between the observer...
+within different philosophical systems...
 
-and Manifestation itself.
+and through different conceptual frameworks.
 
-Yet the final Register achieves more than mere phenomenological discrimination.
+Yet it points toward a recurring structural region...
 
-The final Register reveals the observer itself...
+one that has not yet been accounted for in our architecture.
 
-reveals consciousness as the witnessing pole of Manifestation...
+This is the final structural region of ontology.
 
-and makes self-awareness ontologically possible.
+Here, the observer itself...
+
+and its relationship to Manifestation...
+
+become transparent.
+
+The observer no longer remains completely identified with the structures through which reality appears.
+
+Its position as the witnessing pole of Manifestation...
+
+becomes increasingly clear. 
+
+Here, ontology reaches its highest possible degree of self-clarification.
 
 This distinction is crucial.
 
@@ -402,47 +430,59 @@ It is not mystical liberation.
 
 It is not mystical union with the Absolute.
 
-All of those belong beyond the legitimate boundary of ontology itself.
+Such experiences belong beyond the legitimate boundary of ontology itself.
 
-Meta-Para-Ontology does not attempt to describe what lies beyond that boundary.
+But this does not mean that ontological investigation must stop with Manifestation itself.
 
-This remains the legitimate domain of symbolic, metaphorical, poetic, and mythological language.
+Without accounting for the relationship between Manifestation and the observer...
 
-It is through these languages that religious and contemplative traditions express trans-ontological reality—not through strict ontological classification.
+our architecture would remain incomplete.
 
-What, then, does the fourth Register mark?
-
-It marks the very limit at which discrimination remains possible while reaching its highest degree of ontological clarity.
-
-The structural limits of Manifestation become transparent to the observer.
-
-For the first time...
-
-the observer no longer remains completely identified with the structures through which reality appears.
-
-Here, the observer recognizes itself as witnessing consciousness.
-
-Here, ontology reaches its highest possible degree of self-clarification.
-
-Without such a register...
-
-our architecture would terminate at the observable world.
-
-It would successfully organize physics...
+It could successfully organize many aspects of physics...
 
 chemistry...
 
 biology...
 
-psychology... and even that, only partially.
+and psychology.
 
-Yet it would leave contemplative experience and the philosophical investigation of reflexive awareness without a legitimate ontological position.
+Yet even within these disciplines...
 
-Here, ontology concludes—before the trans-ontological horizon.
+certain dimensions of experience...
+
+including contemplative experience...
+
+would remain outside this architecture.
+
+The same is true of philosophical inquiries into reflexive awareness.
+
+Without this fourth Register...
+
+these dimensions of experience would remain unaccounted for.
+
+Our architecture must therefore include this relationship...
+
+while respecting the limits of ontological description.
+
+Beyond these limits lies the trans-ontological horizon...
+
+expressed by religious and contemplative traditions through symbolic...
+
+metaphorical...
+
+poetic...
+
+and mythological language.
+
+Meta-Para-Ontology does not attempt to describe what lies beyond...
+
+Ontology concludes here, before the trans-ontological horizon...
+
+with the introduction of a Register of ultimate reflexivity.
 
 Meta-Para-Ontology calls this fourth and final Register
 
-Meta-Actualization.
+**Meta-Actualization.**
 
 
 # **Is There a Fifth Register?**
