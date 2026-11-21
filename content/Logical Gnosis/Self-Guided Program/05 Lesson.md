@@ -432,7 +432,7 @@ It is not mystical union with the Absolute.
 
 Such experiences belong beyond the legitimate boundary of ontology itself.
 
-But this does not mean that ontological investigation must stop with Manifestation itself.
+But this does not mean that ontological investigation must be limited to describing manifested phenomena...
 
 Without accounting for the relationship between Manifestation and the observer...
 
@@ -553,6 +553,24 @@ Or would it simply subdivide one that already exists?
 
 That distinction is decisive.
 
+Every map has its own criteria.
+
+But a map intended to accommodate different descriptions of reality must leave room for them.
+
+It should not establish its own interpretations.
+
+Our goal is not to create yet another interpretation.
+
+Our goal is to discover how the entire body of our knowledge and experience can coexist within a common space.
+
+We look for points of intersection between fundamentally different descriptions of reality.
+
+We are not seeking confirmation of our own beliefs.
+
+We need invariant coordinates to measure reality,
+
+not to confine it within yet another rigid monument.
+
 A new Register is justified only if it reveals a fundamentally new ontological function.
 
 If it merely divides an already established region into smaller parts...
@@ -608,6 +626,46 @@ Sometimes extraordinarily valuable.
 But they belong to analysis...
 
 not to architecture.
+
+But an obvious objection may arise.
+
+What if we introduce a Register not within the chosen color model...
+
+but beyond it?
+
+Of course...
+
+Other models describing different color spaces exist.
+
+But here we need to recall something important.
+
+Our model describes the space of ontology.
+
+It does not attempt to map everything that might exist beyond it.
+
+Metaphysical maps describing hierarchies of trans-ontological realities certainly exist.
+
+But these are generally metaphorical.
+
+They may be meaningful within particular traditions,
+
+but their descriptions do not necessarily correspond to anything
+
+that can be established within ontology itself.
+
+They offer their own interpretations of what lies beyond ontology.
+
+And that is precisely what we are not trying to do.
+
+We are not attempting to establish yet another interpretation.
+
+We are trying to identify the common framework
+
+within which everything that already belongs to ontology can be described.
+
+While respecting trans-ontological experiences,
+
+we also seek to recognize the limits of what can be rigorously organized and meaningfully understood.
 
 This distinction is essential.
 
@@ -681,9 +739,7 @@ Once these four structural coordinates have been established...
 
 the entire ontological landscape has already become locatable.
 
-Everything beyond that point belongs to description.
-
-Not to cartography.
+Further distinctions belong to the description of what exists within this architecture.
 
 
 ---
